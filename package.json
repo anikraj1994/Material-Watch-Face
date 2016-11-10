@@ -1,0 +1,24 @@
+{
+    "author": "anikraj1994@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "clock",
+    "pebble": {
+        "displayName": "Clock",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "0027ca11-8f23-408c-a90e-37403770820a",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
